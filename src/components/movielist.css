@@ -1,0 +1,11 @@
+.MovieList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .bts{
+    width: 100px;
+    align-items: center;
+    box-sizing: 20px;
+    height: 20px;
+  }
